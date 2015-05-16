@@ -1,0 +1,20 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- These settings headers are only used on tablets. -->
+
+    <header
+        android:fragment="xworks.aungkhantmyo.parallel.ParallelSetting$GeneralPreferenceFragment"
+        android:title="@string/pref_header_general" />
+
+    <header
+        android:fragment="xworks.aungkhantmyo.parallel.ParallelSetting$ZawgyiSelectionPreferenceFragment"
+        android:title="Zawgyi" />
+
+    <header
+        android:fragment="xworks.aungkhantmyo.parallel.ParallelSetting$UnicodeSelectionPreferenceFragment"
+        android:title="Unicode" />
+    <header
+        android:fragment="xworks.aungkhantmyo.parallel.ParallelSetting$AboutPreferenceFragment"
+        android:title="About" />
+
+</preference-headers>

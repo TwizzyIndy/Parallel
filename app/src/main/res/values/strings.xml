@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Parallel</string>
+    <string name="font_default">System Default Font</string>
+    <string name="font_zawgyi">Smart Zawgyi</string>
+    <string name="font_padauk">Padauk (Unicode)</string>
+    <string name="font_mm3">Myanmar3 (Unicode)</string>
+    <string name="pref_header_unicode">Unicode</string>
+    <string name="incompatible">INCOMPATIBLE_FONT</string>
+    <string name="title_activity_fonts_list">Fonts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
